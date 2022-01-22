@@ -1,0 +1,174 @@
+.logo{
+
+    width:30%;
+}
+.bg{
+    background-color: #F0FFF0;
+}
+.first-pic{
+    width:100%;
+
+}
+.first-text{
+
+
+    color: #FD511A;
+    ;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bold-font{
+
+    font-weight: bolder;
+    font-size: 40px;
+    line-height: 40px;
+}
+#greenny{
+
+    color:#21B573;
+}
+.gray-color{
+    color:#585859;
+    font-weight: 400;
+    size: 20px;
+}
+.green-button{
+background-color: #21B573;
+font-weight: lighter;
+color: white;
+border: none;
+border-radius: 20px;
+padding: 9px 25px;
+
+
+}
+.extra-padding{
+
+  padding:100px;
+}
+.nav-button{
+    background-color: #21B573;
+    
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 7px 10px;
+    font-size: x-small;
+    text-align: center;
+    width: 80px;
+    font-size: x-small;
+    }
+    .small-size{
+
+        font-size: small;
+        
+    }
+    .card-img{
+        width:25%;
+        margin-top: 50px;
+    }
+    .card{
+        border:none;
+        background-color:#F8FFFB ;
+    }
+    .c-t-t{
+      font-size: 20px;
+      color: #413960;   
+      font-weight: 600;
+
+    }
+    .special-card{
+
+        
+    border:none;
+    box-shadow: 0px 20px 20px  0px #d2d2df;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    }
+    .title2{
+        color:#413960;
+        
+        font-weight: 900;
+        font-size: 40px;
+        padding-bottom: 50px;
+
+    }
+    .last-card-img{
+
+        width: 15%;
+        height: 50%;
+       
+
+    }
+    .small-for-card{
+
+        font-size: small;
+        font-weight: bold;
+        color:#585859;
+        padding: 4px;
+        padding-bottom: 6px;
+    }
+    .padding-for-card{
+
+       padding-top: 30px;
+      
+    }
+    .image-for-card{
+       width: 100%;
+       padding: 20px;
+       
+      
+    }
+    .tastimonial-pic{
+
+        width: 25%;
+        height: 90%;
+        padding-left: 50px;
+       
+    }
+    .tastimonial-padding{
+
+        padding-right: 50px;
+        padding-left:50px;
+       
+    }
+    .extra-padding2{
+
+        padding:150px;
+      }
+      .last-bg{
+   background-color: #282531;
+   color: white;
+
+      }
+      .padding-for-last-part{
+
+         padding-top:50px;
+      }
+      .last-font{
+
+        color:white;
+        font-size: 15px;
+        font-weight: lighter;
+      }
+      .last-bottom-margin{
+
+        padding-bottom:40px;
+      }
+      footer{
+
+        background-color: #282531;
+        text-align: center;
+        color:#CDCDCD;
+        padding-bottom:10px;
+        font-size: 15px;
+      }
+      .testi-padding-text{
+          margin-top: 10px;
+
+        padding-left: 50px;
+        color: 
+        #000000
+        ;
+      }
